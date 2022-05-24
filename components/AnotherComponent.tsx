@@ -13,7 +13,6 @@ const AnotherComponent = () => {
             </p>
           );
         })}
-        <button id="button">Press</button>
       </div>
       <section className="main">
         <textarea id="text"></textarea>

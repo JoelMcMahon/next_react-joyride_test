@@ -2,12 +2,12 @@
   "1": {
     "title": "Welcome to our Tutorial",
     "target": "#title",
-    "content": "this is number one",
+    "content": "this is the title",
     "disableBeacon": "true"
   },
   "2": {
-    "target": "#two",
-    "content": "this is number two",
+    "target": "#one",
+    "content": "this is number one",
     "disableBeacon": "true"
   },
   "3": {
@@ -16,14 +16,18 @@
     "disableBeacon": "true"
   },
   "4": {
-    "target": "#button",
-    "content": "this is a button",
+    "target": "#four",
+    "content": "this is number four",
     "disableBeacon": "true"
   },
-
   "5": {
-    "target": "#text",
-    "content": "this is a text area",
+    "target": "#five",
+    "content": "this is number five",
+    "disableBeacon": "true"
+  },
+  "6": {
+    "target": "#button",
+    "content": "this is a button",
     "disableBeacon": "true"
   }
 }

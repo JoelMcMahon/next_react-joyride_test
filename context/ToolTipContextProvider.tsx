@@ -29,23 +29,12 @@ const ToolTipContextProvider: React.FC<IToolTipContextProvider> = ({
   ]);
 
   useEffect(() => {
-    // setEnabled(true);
     console.log("useEffect");
     getSteps("tutorial/en/steps1.json").then((response) => {
       console.log(response);
       setActiveSteps(Object.values(response));
-      // setEnabled(true);
     });
-    // .then(() => {
-    //   console.log("in");
-    //   setEnabled(true);
-    // });
   }, []);
-
-  // const onExit = () => {
-  //   setRun(false);
-  //   console.log(enabled);
-  // };
 
   return (
     <toolTipContext.Provider
