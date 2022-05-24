@@ -1,0 +1,37 @@
+{
+  "1": {
+    "target": "#four",
+    "content": "this is number four",
+    "disableBeacon": "true"
+  },
+  "2": {
+    "target": "#five",
+    "content": "this is number five",
+    "disableBeacon": "true"
+  },
+  "3": {
+    "target": "#six",
+    "content": "this is number six",
+    "disableBeacon": "true"
+  },
+  "4": {
+    "target": "#seven",
+    "content": "this is number seven",
+    "disableBeacon": "true"
+  },
+  "5": {
+    "target": "#eight",
+    "content": "this is number eight",
+    "disableBeacon": "true"
+  },
+  "6": {
+    "target": "#nine",
+    "content": "this is number nine",
+    "disableBeacon": "true"
+  },
+  "7": {
+    "target": "#ten",
+    "content": "this is number ten",
+    "disableBeacon": "true"
+  }
+}
