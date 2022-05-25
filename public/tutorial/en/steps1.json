@@ -1,13 +1,13 @@
 {
   "1": {
-    "title": "Welcome to our Tutorial",
+    "title": "Welcome to the Tutorial",
     "target": "#title",
     "content": "this is the title",
     "disableBeacon": "true"
   },
   "2": {
     "target": "#one",
-    "content": "this is number one",
+    "content": "this is number one and it is the first numbered div on this page. this is number one and it is the first numbered div on this page. ",
     "disableBeacon": "true"
   },
   "3": {
