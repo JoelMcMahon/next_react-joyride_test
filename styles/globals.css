@@ -5,10 +5,11 @@
 }
 html {
   background-color: white;
+  /* width: 100%; */
 }
 
 .header {
-  width: 100%;
+  /* width: 100%; */
   background-color: #ffa331;
   display: flex;
   justify-content: flex-start;
@@ -95,4 +96,19 @@ button {
   color: white;
   font-size: 1.2rem;
   white-space: nowrap;
+  cursor: pointer;
+}
+
+.toolTipButton:hover {
+  background-color: #6a8fff;
+}
+.toolTipButton:selected {
+  border: yellow;
+}
+.toolTipButton:focus {
+  border: red;
+}
+
+.toolTipButton:active {
+  border: blueviolet;
 }
